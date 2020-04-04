@@ -1,0 +1,28 @@
+.container{
+	width: 500px; height: 500px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 2px solid black;
+  
+  
+}
+
+th, td {
+  text-align: left;
+  padding: 10px 5px;
+}
+
+td{
+	color: #e5e5e5;
+	background-color: #213a60;
+}
+
+th{
+	color: #ffdb82;
+	background-color: #3f88c5;
+}
